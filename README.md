@@ -16,6 +16,7 @@
 1. Run `npm install`
 1. Modify the `config.js` file to connect to the database accordingly
 1. Run `node assignment3.js`
+1. For some of the functions, you will be prompted for information to add/update/delete, please fill these values in and press enter.
 1. If you want to see the changes the scripts made, you can run `SELECT * FROM students;` in pgAdmin 4
 
 ### Notes:
