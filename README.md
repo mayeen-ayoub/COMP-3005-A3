@@ -13,7 +13,7 @@
 
 ### 2. Run the Scripts
 1. cd into the `database-scripts` directory (Run `cd database-scripts`)
-1. Run `npm init`
+1. Run `npm install`
 1. Modify the `config.js` file to connect to the database accordingly
 1. Run `node assignment3.js`
 1. If you want to see the changes the scripts made, you can run `SELECT * FROM students;` in pgAdmin 4
